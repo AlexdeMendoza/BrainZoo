@@ -1,7 +1,7 @@
 # BrainZoo
 
 
-Files and code used for de Mendoza et al 2020 "The emergence of the brain non-CpG methylation system in vertebrates".
+Files and code used for de Mendoza, A., Poppe, D., Buckberry, S. et al. "The emergence of the brain non-CpG methylation system in vertebrates". Nat Ecol Evol (2021). https://doi.org/10.1038/s41559-020-01371-2
 
 
 **Code**
